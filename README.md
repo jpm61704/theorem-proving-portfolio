@@ -1,4 +1,4 @@
-# thoerem-proving-portfolio
+# theorem-proving-portfolio
 
 Hello Favonia, Jonathan, Carlo, Matthew and Friends!
 
