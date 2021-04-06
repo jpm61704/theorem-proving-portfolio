@@ -10,7 +10,7 @@
 
 * ***Homework 4*** <br /> This assignment was concerned with implementing the K stack machine as described in Harper's PFPL chapter on Control Stacks (Ch28 in my copy of the text). 
 
-* ***Term Project*** 
+* ***Term Project*** <br /> Is best described in the pdf included in the folder(project-dependent-search) for the project. At a high level, we created a type universe in Agda that allowed a user to encode a library of Agda code and then search for a term matching a type in that code to fill a hole in a program. Please reach out if the pdf isn't an sufficient explanation and I'd be happy to do a demo!
 
 
 
